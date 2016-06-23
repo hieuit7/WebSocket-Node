@@ -7,3 +7,6 @@ builderror.log
 npm-debug.log
 test/autobahn/reports*/*
 test/scripts/heapdump/*
+/nbproject/private/
+/nbproject/*
+nbproject/*
